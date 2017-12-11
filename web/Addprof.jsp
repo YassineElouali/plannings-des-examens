@@ -10,7 +10,7 @@
         <div class="col-lg-12 col-md-12 col-xs-12 col-lg-offset-2">
             <form action="addprofserv" method="POST">
 
-                <h1>Ajouter un Professeur</h1><br>
+                <h1>Ajout d'un Professeur</h1><br>
                 <div class="form-group">
                     <input type="text" placeholder="Nom du professeur" name="NomProfesseur">
                 </div>
